@@ -1,0 +1,6 @@
+sklearn-rvm
+streamlit
+pandas
+numpy
+plotly
+pillow
